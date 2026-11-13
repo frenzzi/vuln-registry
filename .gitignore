@@ -13,3 +13,7 @@ dist_obf/
 /alembic/README
 /docs/
 /security/
+/.env.example
+/.gitattributes
+/scripts/run_dev.py
+/scripts/export_openapi.py
