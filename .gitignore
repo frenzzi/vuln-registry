@@ -1,0 +1,15 @@
+.env
+*.db
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+dist_obf/
+.venv/
+
+# Локальные материалы курсовой
+/README.md
+/alembic/README
+/docs/
+/security/
